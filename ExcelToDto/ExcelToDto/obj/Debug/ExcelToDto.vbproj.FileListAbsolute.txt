@@ -1,0 +1,11 @@
+D:\TEST\EXCEL2DTO\ExcelToDto\ExcelToDto\bin\Debug\ExcelToDto.exe
+D:\TEST\EXCEL2DTO\ExcelToDto\ExcelToDto\bin\Debug\ExcelToDto.pdb
+D:\TEST\EXCEL2DTO\ExcelToDto\ExcelToDto\bin\Debug\ExcelToDto.xml
+D:\TEST\EXCEL2DTO\ExcelToDto\ExcelToDto\obj\Debug\ExcelToDto.Form1.resources
+D:\TEST\EXCEL2DTO\ExcelToDto\ExcelToDto\obj\Debug\ExcelToDto.Resources.resources
+D:\TEST\EXCEL2DTO\ExcelToDto\ExcelToDto\obj\Debug\ExcelToDto.vbproj.GenerateResource.cache
+D:\TEST\EXCEL2DTO\ExcelToDto\ExcelToDto\obj\Debug\ExcelToDto.vbproj.CoreCompileInputs.cache
+D:\TEST\EXCEL2DTO\ExcelToDto\ExcelToDto\obj\Debug\ExcelToDto.exe
+D:\TEST\EXCEL2DTO\ExcelToDto\ExcelToDto\obj\Debug\ExcelToDto.xml
+D:\TEST\EXCEL2DTO\ExcelToDto\ExcelToDto\obj\Debug\ExcelToDto.pdb
+D:\TEST\EXCEL2DTO\ExcelToDto\ExcelToDto\obj\Debug\ExcelToDto.vbprojAssemblyReference.cache
